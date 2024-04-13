@@ -1,0 +1,1 @@
+void task(FILE *input, FILE *output);
